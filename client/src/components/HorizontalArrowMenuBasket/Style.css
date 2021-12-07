@@ -1,0 +1,27 @@
+.menu-item-Court {
+    padding: 0 100px;
+    margin-left: 5px;
+    user-select: none;
+    cursor: pointer;
+    border: none;
+    text-align: right;
+}
+
+.menu-item.active {
+    padding: 0 8px;
+    border: 1px green solid;
+}
+
+.scroll-menu-arrow {
+    cursor: pointer;
+}
+
+.img2 {
+    width: 300px;
+    height: 200px;
+}
+
+.img {
+    width: 200px;
+    height: 200px;
+}
